@@ -16,7 +16,7 @@ Pour executer le fichier, il suffit de se rendre dans le dossier et executer le 
 Les librairies utilisées : `pip install dash; pip install plotly-express; pip install plotly; pip install pandas.`
 ```
 
-# COVID-19 dans le monde depuis le début de l'année 2020
+# COVID-19 dans le monde depuis le début de l'année 2022
 
 Recueille des datas sur le site officiel "**Johns Hopkins Center for Systems Science and Engineering**", qui regroupe les données sur la COVID-19 en temps réel depuis le début de la pandémie. Le lien menant au site des données que j'ai choisi est le suivant : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases. Vous y trouverez un grand nombre de données sur les cas de COVID-19 dans différents continents, ainsi que des données générales pour tous les pays.
 
