@@ -18,7 +18,7 @@ Les librairies utilisées : `pip install dash; pip install plotly-express; pip i
 
 # COVID-19 dans le monde depuis le début de l'année 2022
 
-Recueille des datas sur le site officiel "**Johns Hopkins Center for Systems Science and Engineering**", qui regroupe les données sur la COVID-19 en temps réel depuis le début de la pandémie. Le lien menant au site des données que j'ai choisi est le suivant : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases. Vous y trouverez un grand nombre de données sur les cas de COVID-19 dans différents continents, ainsi que des données générales pour tous les pays.
+Recueil des datas sur le site officiel "**Johns Hopkins Center for Systems Science and Engineering**", qui regroupe les données sur la COVID-19 en temps réel depuis le début de la pandémie. Le lien menant au site des données que j'ai choisi est le suivant : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases. Vous y trouverez un grand nombre de données sur les cas de COVID-19 dans différents continents, ainsi que des données générales pour tous les pays.
 
 Les données sont organisées en 9 colonnes : *Date, Country, Latitude, Longitude, Soignés, Décès, Active*.
 
