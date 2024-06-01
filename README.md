@@ -2,7 +2,8 @@
 
 <p align="center"><a href="https:/laravel.com" target="_blanc"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"></a></p>
 <p align="center"> 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/kmeans">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/covid-dans-le-monde-depuis-debut-2022">
+
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/charlesbchv/kmeans">
 <img alt="Bower" src="https://img.shields.io/bower/l/space">
 </p>
