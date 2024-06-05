@@ -4,8 +4,11 @@
 <p align="center"> 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/covid-dans-le-monde-depuis-debut-2022">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/charlesbchv/covid-dans-le-monde-depuis-debut-2022">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/charlesbchv/covid-dans-le-monde-depuis-debut-2022">
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/charlesbchv/covid-dans-le-monde-depuis-debut-2022.svg">
 <img alt="Bower" src="https://img.shields.io/bower/l/space">
 </p>
+
 
 **Guide d'utilisateur :**
 ```
@@ -13,7 +16,7 @@ Une fois le projet cloné, exécutez `install-library.sh` pour télécharger les
 de faire fonctionner le code.
 Pour executer le fichier, il suffit de se rendre dans le dossier et executer le fichier "traitement_data.py".
 
-Les librairies utilisées : `pip install dash; pip install plotly-express; pip install plotly; pip install pandas.`
+Les librairies utilisées sont les suivants : `pip install dash; pip install plotly-express; pip install plotly; pip install pandas.`
 ```
 
 # COVID-19 dans le monde depuis le début de l'année 2022
